@@ -1,4 +1,4 @@
-# Slovensko3 – Občianska komunita pre budúcnosť Slovenska
+
 
 **Slovensko3** je občianska iniciatíva, ktorá vzniká za účelom podpory budúcnosti Slovenska.  
 Chceme navrhnúť využitie GitHubu ako infraštruktúry a nástroja na podporu organizačných a komunikačných procesov komunity.  
