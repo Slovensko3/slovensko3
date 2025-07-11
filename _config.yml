@@ -1,0 +1,19 @@
+# _config.yml for GitHub Pages (Jekyll)
+
+title: Slovensko³
+description: Oficiálna stránka občianskej iniciatívy Slovensko³.
+theme: minima
+
+# Base settings
+markdown: kramdown
+highlighter: rouge
+
+# GitHub Pages settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional: if you want to exclude folders/files
+# exclude:
+#   - node_modules
+#   - vendor
