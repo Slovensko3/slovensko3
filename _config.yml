@@ -1,7 +1,7 @@
 # _config.yml for GitHub Pages (Jekyll)
 
-title: 
-description: 
+title: ""
+description: ""
 theme: minima
 
 # Base settings
