@@ -2,7 +2,8 @@
 
 title: "SLOVENSKO3"
 description: "Slovensko3 – Občianska komunita pre budúcnosť Slovenska"
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 # theme: architect
 # theme: jekyll-theme-leap-day
 # theme: jekyll-theme-merlot
@@ -23,7 +24,8 @@ plugins:
 # exclude:
 #   - node_modules
 #   - vendor
- google_analytics: G-DMKTFL7MKJ #-toto je stare , GA4 to uz nerzopoznava, jekyll nie je aktualny
+ google_analytics: G-DMKTFL7MKJ 
+ #-toto je stare , GA4 to uz nerzopoznava, jekyll nie je aktualny
 
 #👉 Tento riadok spôsobuje, že Jekyll tvoja téma automaticky generuje starý UA kód.
 # spravil som nejake hacky s header-custom-google-analytics.html
