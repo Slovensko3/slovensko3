@@ -24,7 +24,7 @@ plugins:
 #   - node_modules
 #   - vendor
 
-google_analytics: "G-DMKTFL7MKJ"  # toto je stare, GA4 to uz nerozpoznava, jekyll nie je aktualny
+# google_analytics: "G-DMKTFL7MKJ"  # toto je stare, GA4 to uz nerozpoznava, jekyll nie je aktualny
 
 #👉 Tento riadok spôsobuje, že Jekyll tvoja téma automaticky generuje starý UA kód.
 # spravil som nejake hacky s header-custom-google-analytics.html
