@@ -23,4 +23,8 @@ plugins:
 # exclude:
 #   - node_modules
 #   - vendor
-google_analytics: G-DMKTFL7MKJ
+# google_analytics: G-DMKTFL7MKJ -toto je stare , GA4 to uz nerzopoznava, jekyll nie je aktualny
+
+#👉 Tento riadok spôsobuje, že Jekyll tvoja téma automaticky generuje starý UA kód.
+
+
