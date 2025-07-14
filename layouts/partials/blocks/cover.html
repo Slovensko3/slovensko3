@@ -1,0 +1,10 @@
+<section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-full js-td-cover td-overlay td-overlay--dark -bg-dark" style="background-image: url('{{ with .Params.image }}{{ . }}{{ else }}/images/featured-background.jpg{{ end }}');">
+  <div class="container td-overlay__inner">
+    <div class="row">
+      <div class="col">
+        <h1 class="display-1 mt-0 mb-2">{{ .Title }}</h1>
+        {{ .Inner }}
+      </div>
+    </div>
+  </div>
+</section>
