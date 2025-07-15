@@ -2,6 +2,9 @@ baseURL: "https://slovensko3.sk/"
 
 title: Slovensko3
 
+services:
+  googleAnalytics:
+    id: "G-DMKTFL7MKJ"
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
@@ -226,7 +229,5 @@ module:
     - path: github.com/google/docsy
       disable: false
 
-services:
-  googleAnalytics:
-    id: "G-DMKTFL7MKJ"
+
 

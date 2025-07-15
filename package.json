@@ -32,11 +32,13 @@
     "test": "npm run check:links",
     "update:dep": "npm install --save-dev autoprefixer@latest postcss-cli@latest",
     "update:hugo": "npm install --save-dev --save-exact hugo-extended@latest",
-    "update:pkgs": "npx npm-check-updates -u"
+    "update:pkgs": "npx npm-check-updates -u",
+    "deploy": "gh-pages -d public -b gh-docsy"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "cross-env": "^7.0.3",
+    "gh-pages": "^6.3.0",
     "hugo-extended": "0.148.1",
     "postcss": "^8.5.6",
     "postcss-cli": "^11.0.1",
